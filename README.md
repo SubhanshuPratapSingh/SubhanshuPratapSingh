@@ -66,7 +66,13 @@ To begin my career as a **Full Stack Developer**, applying my **research experie
   - Designed a simple storefront demonstrating product display and UI concepts  
 
 - 🎨 **Website Rebranding Project**  
-  - Rebranded a well-known website using **AI tools**  
+  - Rebranded a well-known website using **AI tools**
+
+- 📚 **BookStoreManagement**
+  - Smart inventory and billing management system built with Java to streamline bookstore operations  
+
+- 📝 **Notes-Management-App**
+  - Secure and user-friendly notes application for structured digital note organization
 
 ---
 
